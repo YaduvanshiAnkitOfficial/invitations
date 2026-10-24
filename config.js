@@ -110,16 +110,16 @@ window.INVITATION = {
     },
     {
       "label": "Sister",
-      "names": "Neha, Sneha, ",
+      "names": "Neha, Sneha, A, A",
       "highlight": false
     },
     {
       "label": "Our Beloved Nephews & Nieces",
-      "names": "Satyam, Shivam, Aashi, Chiku",
+      "names": "Kid's names",
       "highlight": true
     }
   ],
-  "familyQuote": "“Na Koi Phone, Na Koi Bahana, Humare Bua ki Shaadi mein Jarur-Jarur Aana”",
+  "familyQuote": "“Na Koi Phone, Na Koi Bahana, Humare Bua/Masi ki Shaadi mein Jarur-Jarur Aana”",
   "thankYou": "Thank You",
   "credit": "",
   "media": {
