@@ -6,7 +6,7 @@ window.INVITATION = {
   "groomRelation": "Son of",
   "brideParents": "Smt. Jyoti & Sh. Vijay Kumar",
   "groomParents": "Smt. Savita & Sh. Rajendra Prasad",
-  "dateTime": "2026-11-21T17:00:00+05:30",
+  "dateTime": "2026-11-21T19:00:00+05:30",
   "displayTimeZone": "Asia/Kolkata",
   "prayer": "॥ श्री गणेशाय नमः ॥",
   "prayerLines": [
