@@ -1,4 +1,3 @@
-// Your editable wedding invitation settings.
 window.INVITATION = {
   "bride": "Sakshi",
   "groom": "Ankit",
