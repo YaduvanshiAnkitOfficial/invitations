@@ -1,4 +1,3 @@
-// Your editable wedding invitation settings.
 window.INVITATION = {
   "bride": "Sakshi",
   "groom": "Ankit",
@@ -41,49 +40,6 @@ window.INVITATION = {
   ],
   "eventsTitle": "Wedding Events",
   "events": [
-    {
-      "title": "Lagan",
-      "date": "18 NOVEMBER 2026",
-      "time": "WEDNESDAY • 10:00 AM",
-      "image": "media/event-lagan.webp",
-      "venue": "Our Residence",
-      "address": "23/39B Tilak Nagar, Delhi",
-      "url": "https://maps.app.goo.gl/imupZbBqrX4JZU7J9",
-      "note": "",
-      "featured": false
-    },
-    {
-      "title": "Haldi",
-      "date": "20 NOVEMBER 2026",
-      "time": "FRIDAY • 5:00 PM",
-      "image": "media/event-haldi.webp",
-      "venue": "Our Residence",
-      "address": "23/39B Tilak Nagar, Delhi",
-      "url": "https://maps.app.goo.gl/imupZbBqrX4JZU7J9",
-      "note": "",
-      "featured": false
-    },
-    {
-      "title": "Mehandi",
-      "date": "20 NOVEMBER 2026",
-      "time": "FRIDAY • 7:00 PM",
-      "image": "media/event-mehndi.webp",
-      "venue": "Our Residence",
-      "address": "23/39B Tilak Nagar, Delhi",
-      "url": "https://maps.app.goo.gl/imupZbBqrX4JZU7J9",
-      "note": "",
-      "featured": false
-    },
-    {
-      "title": "Sangeet Ceremony",
-      "date": "20 NOVEMBER 2026",
-      "time": "FRIDAY • 9:30 PM",
-      "image": "media/event-sangeet.webp",
-      "venue": "Our Residence",
-      "address": "23/39B Tilak Nagar, Delhi",
-      "url": "https://maps.app.goo.gl/imupZbBqrX4JZU7J9",
-      "note": ""
-    },
     {
       "title": "Wedding",
       "date": "21 November 2026, Saturday",
