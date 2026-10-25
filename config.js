@@ -44,7 +44,7 @@ window.INVITATION = {
     {
       "title": "Lagan",
       "date": "18 NOVEMBER 2026",
-      "time": "WEDNESDAY • 10:00 AM\nLunch • 1:00 PM",
+      "time": "WEDNESDAY • 10:00 AM",
       "image": "media/event-lagan.webp",
       "venue": "Our Residence",
       "address": "23/39B Tilak Nagar, Delhi",
@@ -66,7 +66,7 @@ window.INVITATION = {
     {
       "title": "Mehandi",
       "date": "20 NOVEMBER 2026",
-      "time": "FRIDAY • 7:00 PM\nDinner • 8:30 PM",
+      "time": "FRIDAY • 7:00 PM",
       "image": "media/event-mehndi.webp",
       "venue": "Our Residence",
       "address": "23/39B Tilak Nagar, Delhi",
