@@ -104,7 +104,7 @@ window.INVITATION = {
       "highlight": false
     },
     {
-      "label": "Special Invitations from:",
+      "label": "Special Invitations from",
       "names": "Sarvesh, Mayank, Aayush, Saiyansh",
       "highlight": false
     },
