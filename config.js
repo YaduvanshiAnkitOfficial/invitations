@@ -99,25 +99,15 @@ window.INVITATION = {
   "familyTitle": "With Blessings From",
   "family": [
     {
-      "label": "Grand Parents",
-      "names": "Late Smt. Leela Devi & Late Sh. Sohan Lal",
+      "label": "R.S.V.P.",
+      "names": "Dadke & Nanke",
       "highlight": false
     },
     {
-      "label": "Brothers",
-      "names": "Mayank, Sayansh...",
+      "label": "Special Invitations from:",
+      "names": "Sarvesh, Mayank, Aayush, Saiyansh",
       "highlight": false
     },
-    {
-      "label": "Sister",
-      "names": "Neha, Sneha, A, A",
-      "highlight": false
-    },
-    {
-      "label": "Our Beloved Nephews & Nieces",
-      "names": "Kid's names",
-      "highlight": true
-    }
   ],
   "familyQuote": "“Na Koi Phone, Na Koi Bahana, Humare Bua/Masi ki Shaadi mein Jarur-Jarur Aana”",
   "thankYou": "Thank You",
